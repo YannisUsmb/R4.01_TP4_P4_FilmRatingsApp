@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TP4_FilmRatingsApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TP4_FilmRatingsApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
